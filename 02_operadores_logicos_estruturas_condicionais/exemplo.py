@@ -38,12 +38,15 @@ print(idade <= 18)
 
 #3. Estrutura IF
 
+idade = 18
+
 if idade >= 18:
-    print("maior de idade")
+    print("Maior idade")
 
 #4. Estrutura IF/else
 
-if idade = 16
+idade = 16
+
 if idade >= 18:
     print("maior de idade")
 else:
